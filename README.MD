@@ -1,5 +1,7 @@
 # OpenCore EFI for AMD Ryzen Hackintosh (macOS 10.13 - 11.0)
 
+# EFI was moved to OpenCore. Clover branch is archive and won't be updated
+
 ## Specification
 | **Component** | **Model** |
 | ------------- | --------- |
